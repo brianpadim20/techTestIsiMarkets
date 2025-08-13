@@ -41,17 +41,17 @@ stones_path is sorted in a strictly increasing order.
 
 # Excercise 2:
 Using libraries of your choice write a Python (hint - requests & BeautifulSoup4 libraries should do the job) or JavaScript program that:
-    a. Opens the following webpage: 'https://en.wikipedia.org/wiki/ASEAN'
+a. Opens the following webpage: 'https://en.wikipedia.org/wiki/ASEAN'
 
-    b. Extracts the data_rows from the 'Urban areas' table on that page.
+b. Extracts the data_rows from the 'Urban areas' table on that page.
 
-    c. Using values from columns 'Country', 'Core City', and 'Population' it should create a countries_dictionary variable with a valid json containing country, All respective cities in given country, their population and area.
+c. Using values from columns 'Country', 'Core City', and 'Population' it should create a countries_dictionary variable with a valid json containing country, All respective cities in given country, their population and area.
 
-    d. Calculate population density for all countries and metropolitan areas in the dictionary and add in to the countries_dictionary. Print the content.
+d. Calculate population density for all countries and metropolitan areas in the dictionary and add in to the countries_dictionary. Print the content.
 
-    e. Saves the information to a file
+e. Saves the information to a file
 
-    f. Add the following functionality to the script - upon each run it should compare the latest data with the one saved in the file before and it should rewrite the file only if there is new data.
+f. Add the following functionality to the script - upon each run it should compare the latest data with the one saved in the file before and it should rewrite the file only if there is new data.
 
 Please write a program in Python or JavaScript.
 
