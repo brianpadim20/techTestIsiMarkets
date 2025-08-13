@@ -1,0 +1,154 @@
+{
+    "Indonesia": {
+        "cities": [
+            {
+                "core_city": "Jakarta",
+                "population": null,
+                "area_km2": null,
+                "density_per_km2": null
+            },
+            {
+                "core_city": "Surabaya",
+                "population": null,
+                "area_km2": null,
+                "density_per_km2": null
+            },
+            {
+                "core_city": "Bandung",
+                "population": null,
+                "area_km2": null,
+                "density_per_km2": null
+            },
+            {
+                "core_city": "Semarang",
+                "population": null,
+                "area_km2": null,
+                "density_per_km2": null
+            },
+            {
+                "core_city": "Medan",
+                "population": null,
+                "area_km2": null,
+                "density_per_km2": null
+            },
+            {
+                "core_city": "Makassar",
+                "population": null,
+                "area_km2": null,
+                "density_per_km2": null
+            },
+            {
+                "core_city": "Palembang",
+                "population": null,
+                "area_km2": null,
+                "density_per_km2": null
+            },
+            {
+                "core_city": "Yogyakarta",
+                "population": null,
+                "area_km2": null,
+                "density_per_km2": null
+            }
+        ]
+    },
+    "Philippines": {
+        "cities": [
+            {
+                "core_city": "Manila",
+                "population": null,
+                "area_km2": null,
+                "density_per_km2": null
+            },
+            {
+                "core_city": "Davao",
+                "population": null,
+                "area_km2": null,
+                "density_per_km2": null
+            },
+            {
+                "core_city": "Cebu",
+                "population": null,
+                "area_km2": null,
+                "density_per_km2": null
+            }
+        ]
+    },
+    "Vietnam": {
+        "cities": [
+            {
+                "core_city": "Ho Chi Minh City",
+                "population": null,
+                "area_km2": null,
+                "density_per_km2": null
+            },
+            {
+                "core_city": "Hanoi",
+                "population": null,
+                "area_km2": null,
+                "density_per_km2": null
+            },
+            {
+                "core_city": "Da Nang",
+                "population": null,
+                "area_km2": null,
+                "density_per_km2": null
+            }
+        ]
+    },
+    "Thailand": {
+        "cities": [
+            {
+                "core_city": "Bangkok",
+                "population": null,
+                "area_km2": null,
+                "density_per_km2": null
+            }
+        ]
+    },
+    "Malaysia": {
+        "cities": [
+            {
+                "core_city": "Kuala Lumpur",
+                "population": null,
+                "area_km2": null,
+                "density_per_km2": null
+            },
+            {
+                "core_city": "George Town",
+                "population": null,
+                "area_km2": null,
+                "density_per_km2": null
+            }
+        ]
+    },
+    "Myanmar": {
+        "cities": [
+            {
+                "core_city": "Yangon",
+                "population": null,
+                "area_km2": null,
+                "density_per_km2": null
+            }
+        ]
+    },
+    "Singapore": {
+        "cities": [
+            {
+                "core_city": "Singapore",
+                "population": null,
+                "area_km2": null,
+                "density_per_km2": null
+            }
+        ]
+    },
+    "Cambodia": {
+        "cities": [
+            {
+                "core_city": "Phnom Penh",
+                "population": null,
+                "area_km2": null,
+                "density_per_km2": null
+            }
+        ]
+    }
+}

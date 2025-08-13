@@ -38,3 +38,24 @@ Constraints:
 2 <= len(stones_path) <= 100
 stones_path[0] == 0
 stones_path is sorted in a strictly increasing order.
+
+# Excercise 2:
+Using libraries of your choice write a Python (hint - requests & BeautifulSoup4 libraries should do the job) or JavaScript program that:
+    a. Opens the following webpage: 'https://en.wikipedia.org/wiki/ASEAN'
+
+    b. Extracts the data_rows from the 'Urban areas' table on that page.
+
+    c. Using values from columns 'Country', 'Core City', and 'Population' it should create a countries_dictionary variable with a valid json containing country, All respective cities in given country, their population and area.
+
+    d. Calculate population density for all countries and metropolitan areas in the dictionary and add in to the countries_dictionary. Print the content.
+
+    e. Saves the information to a file
+
+    f. Add the following functionality to the script - upon each run it should compare the latest data with the one saved in the file before and it should rewrite the file only if there is new data.
+
+Please write a program in Python or JavaScript.
+
+IN ORDER TO KEEP FORMATTING, PLEASE UPLOAD and leave a link to your code (https://pastebin.com/ for example).
+
+The scripts which are not working wouldn't be evaluated. Any comments are also welcome.
+Writing a code following PEP 8 is highly recommended.
